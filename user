@@ -1,7 +1,7 @@
 # User config
-set my_realname="John Smith"
-set my_username="john.smith"
-set my_domain="example.com"
-set my_password="This password is secure"
-set my_lang="en_US"
+set my_realname="Peter Thorin"
+set my_username="peter.thorin"
+set my_domain="visma.com"
+set my_password=$GMAIL_APP_PASSWORD
+set my_lang="en_UK"
 
